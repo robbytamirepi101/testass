@@ -14,6 +14,8 @@ while newinvestmentAmount <= (investmentAmount * 2):
     newinvestmentAmount = newinvestmentAmount + (newinvestmentAmount * (interestRate / 100))
     year +=1
     print("The investment for the year : " + str (year)+ " is "  + str(round(newinvestmentAmount, 2)))
-    
+
+
+print("we checking for chnages on code")
 print()
 print("It will take ", str (year) + " years to double your investment" )
