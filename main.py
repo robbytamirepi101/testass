@@ -3,9 +3,9 @@ interestRate = int(input("Please enter your yearly rate: " ))
 print()
 
 #You can enter the inverstment amount as a full amount like 50000
-investmentAmount = float(input("Please enter your investment amount: "))
+investment_amount = float(input("Please enter your investment amount: "))
 
-newinvestmentAmount = investmentAmount
+newinvestmentAmount = investment_amount = float(input("Please enter your investment amount: "))
 
 year = 0
 
