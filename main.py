@@ -19,3 +19,4 @@ while newinvestmentAmount <= (investmentAmount * 2):
 print("we checking for chnages on code")
 print()
 print("It will take ", str (year) + " years to double your investment" )
+#added a comment that we changed the code and testing 
