@@ -1,8 +1,8 @@
-#You can enter investment rate as a whole number like 5
+#You can enter the investment rate as a whole number like 5
 interestRate = int(input("Please enter your yearly rate: " ))
 print()
 
-#You can enter the investment amount as a full amount like 50000
+#You can enter the investment amount as a full amount like 50,000
 investment_amount = float(input("Please enter your investment amount: "))
 
 newinvestmentAmount = investment_amount = float(input("Please enter your investment amount: "))
